@@ -1,0 +1,2 @@
+- Changed the key to the right of `BSPC` on the `BASE` layer to `&mo NAV` to activate the `NAVI` layer when held.
+- Updated the ASCII art in `config/totem.keymap` for the `base_layer` to reflect this change.
