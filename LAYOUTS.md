@@ -12,12 +12,11 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
              ┃     Q     ┃     W     ┃     E     ┃     R     ┃     T     ┃
              ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
              ┃     A     ┃     S     ┃     D     ┃     F     ┃     G     ┃
-             ┃   (GUI)   ┃   (ALT)   ┃  (CTRL)   ┃  (SHFT)   ┃           ┃
  ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
  ┃   SHIFT   ┃     Z     ┃     X     ┃     C     ┃     V     ┃     B     ┃
  ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
                                      ┃    DEL    ┃   BSPC    ┃    CMD    ┃
-                                     ┃           ┃  (→NAV)   ┃   (GUI)   ┃
+                                     ┃           ┃           ┃   (GUI)   ┃
                                      ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 ```
 
@@ -27,7 +26,6 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ┃     Y     ┃     U     ┃     I     ┃     O     ┃     P     ┃
 ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
 ┃     H     ┃     J     ┃     K     ┃     L     ┃     ;     ┃
-┃           ┃  (SHFT)   ┃  (CTRL)   ┃   (ALT)   ┃   (GUI)   ┃
 ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┓
 ┃     N     ┃     M     ┃     ,     ┃     .     ┃     /     ┃   SHIFT   ┃
 ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
@@ -35,8 +33,6 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ┃           ┃           ┃  (→NAV)   ┃
 ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 ```
-
-**Home row mods:** GACS on left (GUI/ALT/CTRL/SHIFT), SCAG on right (SHIFT/CTRL/ALT/GUI)
 
 **Layer access:** Hold BSPC to access NAV layer
 
