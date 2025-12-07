@@ -34,7 +34,7 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 ```
 
-**Layer access:** Hold BSPC to access NAV layer
+**Layer access:** Hold NAVI key (right thumb) to access NAV layer
 
 ---
 
@@ -235,7 +235,6 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ## Notes
 
 - Base layout: Colemak-DH
-- Home row mods with 170ms tapping term
-- Tap-preferred flavor for better typing experience
-- Quick tap: 100ms
-- Global quick tap enabled
+- All mod-tap and layer-tap behaviors removed from base layer
+- Only NAVI key (right thumb) provides layer access via momentary hold
+- Simple, predictable key behavior with no long-press actions on letter keys
