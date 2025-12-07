@@ -14,7 +14,7 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
              ┃     A     ┃     S     ┃     D     ┃     F     ┃     G     ┃
              ┃   (GUI)   ┃   (ALT)   ┃  (CTRL)   ┃  (SHFT)   ┃           ┃
  ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
- ┃     Y     ┃     Z     ┃     X     ┃     C     ┃     V     ┃     B     ┃
+ ┃   SHIFT   ┃     Z     ┃     X     ┃     C     ┃     V     ┃     B     ┃
  ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
                                      ┃    DEL    ┃   BSPC    ┃    CMD    ┃
                                      ┃           ┃  (→NAV)   ┃   (GUI)   ┃
@@ -39,8 +39,6 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 **Home row mods:** GACS on left (GUI/ALT/CTRL/SHIFT), SCAG on right (SHIFT/CTRL/ALT/GUI)
 
 **Layer access:** Hold BSPC to access NAV layer
-
-**Note:** Left outer key is temporarily mapped to Y for diagnostic testing (normally SHIFT)
 
 ---
 
