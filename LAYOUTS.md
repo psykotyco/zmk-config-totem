@@ -47,7 +47,7 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
              ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
              ┃   SHIFT   ┃   LEFT    ┃    DOWN   ┃   RIGHT   ┃     [     ┃
  ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
- ┃           ┃    DEL    ┃   PG UP   ┃  C LOCK   ┃  PG DOWN  ┃     (     ┃
+ ┃    TAB    ┃    DEL    ┃   PG UP   ┃  C LOCK   ┃  PG DOWN  ┃     (     ┃
  ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
                                      ┃    ADJ    ┃   BSPC    ┃    CMD    ┃
                                      ┃  (→ADJ)   ┃           ┃           ┃
