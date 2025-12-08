@@ -60,8 +60,8 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ### Right Side
 ```
 ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
-┃     }     ┃   7 / &   ┃     8     ┃     9     ┃     +     ┃
-┃           ┃ (hold: &) ┃           ┃           ┃           ┃
+┃     }     ┃   7 / &   ┃   8 / ~   ┃     9     ┃     +     ┃
+┃           ┃ (hold: &) ┃ (hold: ~) ┃           ┃           ┃
 ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
 ┃     ]     ┃   4 / $   ┃   5 / %   ┃   6 / ^   ┃   - / _   ┃
 ┃           ┃ (hold: $) ┃ (hold: %) ┃ (hold: ^) ┃ (hold: _) ┃
@@ -74,7 +74,7 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 ```
 
-**Features:** Arrow keys, Numpad with symbol hold-tap (1-7), Brackets, Page Up/Down, Caps Lock
+**Features:** Arrow keys, Numpad with symbol hold-tap (1-8), Brackets, Page Up/Down, Caps Lock
 
 ---
 

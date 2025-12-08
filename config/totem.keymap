@@ -149,6 +149,15 @@
                 flavor = "tap-preferred";
                 bindings = <&kp>, <&kp>;
             };
+            ht_n8: hold_tap_n8 {
+                compatible = "zmk,behavior-hold-tap";
+                label = "HOLD_TAP_N8";
+                #binding-cells = <2>;
+                tapping-term-ms = <200>;
+                quick-tap-ms = <0>;
+                flavor = "tap-preferred";
+                bindings = <&kp>, <&kp>;
+            };
      };
 
      combos {
@@ -226,7 +235,7 @@ label= "NAVI"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp ESC     &trans      &kp UP      &trans      &kp LBRC        &kp RBRC    &ht_n7 AMPS KP_N7   &kp KP_N8   &kp KP_N9   &kp KP_PLUS
+                &kp ESC     &trans      &kp UP      &trans      &kp LBRC        &kp RBRC    &ht_n7 AMPS KP_N7   &ht_n8 TILDE KP_N8   &kp KP_N9   &kp KP_PLUS
                 &kp TAB     &kp LEFT    &kp DOWN    &kp RIGHT   &kp LBKT        &kp RBKT    &ht_n4 DLLR KP_N4   &ht_n5 PRCNT KP_N5   &ht_n6 CARET KP_N6   &ht_minus UNDER KP_MINUS
     &kp LSHFT   &kp DEL     &kp PG_UP   &kp CAPS    &kp PG_DN   &kp LPAR        &kp RPAR    &ht_n1 EXCL KP_N1   &ht_n2 AT KP_N2   &ht_n3 HASH KP_N3   &kp KP_MULTIPLY &kp EQUAL
                                         &mo ADJ     &trans      &trans          &trans      &kp KP_N0   &trans      
