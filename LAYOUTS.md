@@ -43,7 +43,7 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ### Left Side
 ```
              ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
-             ┃    ESC    ┃  BT CLR   ┃     UP    ┃     =     ┃     {     ┃
+             ┃    ESC    ┃           ┃     UP    ┃     =     ┃     {     ┃
              ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
              ┃   SHIFT   ┃   LEFT    ┃    DOWN   ┃   RIGHT   ┃     [     ┃
  ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
