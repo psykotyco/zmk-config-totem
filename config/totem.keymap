@@ -59,6 +59,33 @@
                 flavor = "tap-preferred";
                 bindings = <&kp>, <&kp>;
             };
+            ht_slash: hold_tap_slash {
+                compatible = "zmk,behavior-hold-tap";
+                label = "HOLD_TAP_SLASH";
+                #binding-cells = <2>;
+                tapping-term-ms = <200>;
+                quick-tap-ms = <0>;
+                flavor = "tap-preferred";
+                bindings = <&kp>, <&kp>;
+            };
+            ht_o: hold_tap_o {
+                compatible = "zmk,behavior-hold-tap";
+                label = "HOLD_TAP_O";
+                #binding-cells = <2>;
+                tapping-term-ms = <200>;
+                quick-tap-ms = <0>;
+                flavor = "tap-preferred";
+                bindings = <&kp>, <&kp>;
+            };
+            ht_p: hold_tap_p {
+                compatible = "zmk,behavior-hold-tap";
+                label = "HOLD_TAP_P";
+                #binding-cells = <2>;
+                tapping-term-ms = <200>;
+                quick-tap-ms = <0>;
+                flavor = "tap-preferred";
+                bindings = <&kp>, <&kp>;
+            };
      };
 
      combos {
@@ -110,9 +137,9 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp P
-                &kp A       &kp S       &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &kp L       &ht_semi COLON SEMI
-    &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &ht_comma DQT COMMA   &kp DOT     &kp FSLH    &kp RSHFT
+                &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &ht_o BSLH O       &ht_p PIPE P
+                &kp A       &kp S       &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &kp L       &ht_semi DQT SEMI
+    &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &ht_slash SQT FSLH    &kp RSHFT
                                         &kp LCTRL   &kp BSPC    &kp LGUI        &kp RET   &kp SPACE   &mo NAV
                         >;
                 };
