@@ -158,6 +158,15 @@
                 flavor = "tap-preferred";
                 bindings = <&kp>, <&kp>;
             };
+            ht_q: hold_tap_q {
+                compatible = "zmk,behavior-hold-tap";
+                label = "HOLD_TAP_Q";
+                #binding-cells = <2>;
+                tapping-term-ms = <200>;
+                quick-tap-ms = <0>;
+                flavor = "tap-preferred";
+                bindings = <&mo>, <&kp>;
+            };
      };
 
      combos {
@@ -209,7 +218,7 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &ht_o BSLH O       &ht_p PIPE P
+                &ht_q NAV Q &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &ht_o BSLH O       &ht_p PIPE P
                 &kp A       &kp S       &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &kp L       &ht_semi DQT SEMI
     &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &ht_slash SQT FSLH    &kp RSHFT
                                         &kp LCTRL   &kp BSPC    &kp LGUI        &kp RET   &kp SPACE   &mo NAV

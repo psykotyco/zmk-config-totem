@@ -9,7 +9,8 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ### Left Side
 ```
              ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
-             ┃     Q     ┃     W     ┃     E     ┃     R     ┃     T     ┃
+             ┃  Q / NAVI ┃     W     ┃     E     ┃     R     ┃     T     ┃
+             ┃(hold:NAVI)┃           ┃           ┃           ┃           ┃
              ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
              ┃     A     ┃     S     ┃     D     ┃     F     ┃     G     ┃
  ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
@@ -37,7 +38,7 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 ```
 
-**Layer access:** Hold NAVI key (right thumb) to access NAV layer
+**Layer access:** Hold NAVI key (right thumb) or Q key to access NAV layer
 
 ---
 
