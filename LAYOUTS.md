@@ -24,8 +24,8 @@ This file contains ASCII visualizations of all 6 layers of the TOTEM split keybo
 ### Right Side
 ```
 ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
-┃     Y     ┃     U     ┃     I     ┃   O / \   ┃   P / |   ┃
-┃           ┃           ┃           ┃ (hold: \) ┃ (hold: |) ┃
+┃     Y     ┃     U     ┃     I     ┃   O / |   ┃   P / \   ┃
+┃           ┃           ┃           ┃ (hold: |) ┃ (hold: \) ┃
 ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
 ┃     H     ┃     J     ┃     K     ┃     L     ┃   ; / "   ┃
 ┃           ┃           ┃           ┃           ┃ (hold: ") ┃

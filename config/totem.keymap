@@ -218,7 +218,7 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &ht_q NAV Q &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &ht_o BSLH O       &ht_p PIPE P
+                &ht_q NAV Q &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &ht_o PIPE O       &ht_p BSLH P
                 &kp A       &kp S       &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &kp L       &ht_semi DQT SEMI
     &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &ht_slash SQT FSLH    &kp RSHFT
                                         &kp LCTRL   &kp BSPC    &kp LGUI        &kp RET   &kp SPACE   &mo NAV
