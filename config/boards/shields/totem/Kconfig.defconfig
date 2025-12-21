@@ -25,9 +25,6 @@ config ZMK_SPLIT_ROLE_CENTRAL
 config ZMK_SPLIT_BLE
     default y
 
-config ZMK_BLE_SPLIT_PERIPHERAL
-    default y
-
 config ZMK_BLE
     default y
 
